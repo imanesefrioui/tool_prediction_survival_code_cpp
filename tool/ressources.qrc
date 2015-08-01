@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>model_naive_656000_linux.model</file>
+        <file>model_j48_656000_linux.model</file>
+        <file>model_smo_656000_linux.model</file>
+        <file>model_ann_656000_linux.model</file>
+    </qresource>
+</RCC>
